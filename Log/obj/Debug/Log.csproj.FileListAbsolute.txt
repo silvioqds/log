@@ -1,0 +1,7 @@
+C:\Users\silvi\Desktop\LogApplication\Log\Log\obj\Debug\Log.csprojAssemblyReference.cache
+C:\Users\silvi\Desktop\LogApplication\Log\Log\obj\Debug\Log.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Desktop\LogApplication\Log\Log\bin\Debug\Log.exe.config
+C:\Users\silvi\Desktop\LogApplication\Log\Log\bin\Debug\Log.exe
+C:\Users\silvi\Desktop\LogApplication\Log\Log\bin\Debug\Log.pdb
+C:\Users\silvi\Desktop\LogApplication\Log\Log\obj\Debug\Log.exe
+C:\Users\silvi\Desktop\LogApplication\Log\Log\obj\Debug\Log.pdb
